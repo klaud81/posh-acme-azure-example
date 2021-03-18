@@ -4,9 +4,6 @@ name: 0.0.$(Build.BuildId)
 queue:
   name: Hosted Ubuntu 1604
 
-#pool:
-#  vmImage: ubuntu-16.04
-
 # The scheduled trigger will be set in the Azure DevOps portal
 trigger: none
 
